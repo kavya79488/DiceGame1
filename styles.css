@@ -1,0 +1,28 @@
+body{
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.title-display{
+  display: flex;
+  flex-wrap: wrap;
+}
+.heading{
+  text-align: center;
+}
+.title-image{
+  display: flex;
+  align-self: flex-start;
+  height: 50px;
+  width: 50px;
+}
+#title-heading{
+  width: 100px;
+}
+.players{
+  display: flex;
+  justify-content: space-around;
+
+}
+.image6{
+  display: grid;
+}
